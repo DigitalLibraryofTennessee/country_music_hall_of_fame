@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Gene Autry's Melody Ranch - 1948-12-19 - Part 5</title>
+   </titleInfo>
+   <accessCondition>This audio file is the property of the Country Music Hall of Fame® and Museum and may be protected by U.S. and international copyright laws. The file may not be downloaded, reproduced, or distributed without permission. End users must obtain all required permissions or consents from the owners of such rights. To inquire about use permissions and obtain a high-quality version of this, contact audio@countrymusichalloffame.org. Please cite audio file information in email.</accessCondition>
+   <abstract>Gene Autry's Melody Ranch, originally broadcast 1948-12-19 (part 5) over the CBS network. Featuring Gene Autry, Johnny Bond, Pat Buttram, the Cass County Boys, the Pinafores, Carl Cotner, with announcer Lou Crosby. Sponsored by Wrigley's Gum.</abstract>
+   <subject>
+      <topic>Autry, Gene, 1907-1998</topic>
+   </subject>
+   <subject>
+      <topic> Gene Autry's Melody Ranch (Radio program)</topic>
+   </subject>
+   <subject>
+      <topic> Cass County Boys (Musical group)</topic>
+   </subject>
+   <subject>
+      <topic> Bond, Johnny, 1915-1978</topic>
+   </subject>
+   <subject>
+      <topic> Buttram, Pat</topic>
+   </subject>
+   <subject>
+      <topic> Pinafores (Musical group)</topic>
+   </subject>
+   <subject>
+      <topic> Cotner, Carl</topic>
+   </subject>
+   <subject>
+      <topic> Crosby, Lou</topic>
+   </subject>
+   <subject>
+      <topic> CBS Inc.</topic>
+   </subject>
+   <subject>
+      <topic> KOMA (Radio station : Oklahoma City, Okla.)</topic>
+   </subject>
+   <name>
+      <namePart>Gene Autry</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart> Cass County Boys</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart> Pinafores</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart> Carl Cotner</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">1948-12-19</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Country Music Hall of Fame</recordContentSource>
+   </recordInfo>
+   <location>
+      <url usage="primary" access="object in context">http://digi.countrymusichalloffame.org/cdm/ref/collection/musicaudio/id/3396</url>
+   </location>
+   <location>
+      <url usage="primary" access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/3396</url>
+   </location>
+   <identifier type="local">cmhf3396</identifier>
+   <physicalDescription>
+      <form>10 inch metal-based acetate disc</form>
+   </physicalDescription>
+   <physicalDescription>
+      <form>78 rpm</form>
+   </physicalDescription>
+</mods>

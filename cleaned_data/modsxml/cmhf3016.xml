@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Hank Snow - Thesaurus Transcriptions - 1649 / E1-MM-1714-K dub (Hawaiian Cowboy)</title>
+   </titleInfo>
+   <accessCondition>This audio file is the property of the Country Music Hall of Fame® and Museum and may be protected by U.S. and international copyright laws. The file may not be downloaded, reproduced, or distributed without permission. End users must obtain all required permissions or consents from the owners of such rights. To inquire about use permissions and obtain a high-quality version of this, contact audio@countrymusichalloffame.org. Please cite audio file information in email.</accessCondition>
+   <abstract>Dub of Hank Snow performing Hawaiian Cowboy, part of RCA's Thesaurus transcriptions. Original transcription issue 1649, matrix no. E1-MM-1714-K.</abstract>
+   <subject>
+      <topic>Snow, Hank</topic>
+   </subject>
+   <name>
+      <namePart>Hank Snow</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
+   </name>
+   <recordInfo>
+      <recordContentSource>Country Music Hall of Fame</recordContentSource>
+   </recordInfo>
+   <location>
+      <url usage="primary" access="object in context">http://digi.countrymusichalloffame.org/cdm/ref/collection/musicaudio/id/3016</url>
+   </location>
+   <location>
+      <url usage="primary" access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/3016</url>
+   </location>
+   <identifier type="local">cmhf3016</identifier>
+   <physicalDescription>
+      <form>10 inch metal-based acetate disc</form>
+   </physicalDescription>
+   <physicalDescription>
+      <form>78 rpm</form>
+   </physicalDescription>
+</mods>

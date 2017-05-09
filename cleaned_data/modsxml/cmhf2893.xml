@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Sammy Kaye and his Orchestra - I'll Be Walking With My Honey -- Jack Guthrie and his Oklahomans - I'm Telling You - Capitol 309 (dub)</title>
+   </titleInfo>
+   <accessCondition>This audio file is the property of the Country Music Hall of Fame® and Museum and may be protected by U.S. and international copyright laws. The file may not be downloaded, reproduced, or distributed without permission. End users must obtain all required permissions or consents from the owners of such rights. To inquire about use permissions and obtain a high-quality version of this, contact audio@countrymusichalloffame.org. Please cite audio file information in email.</accessCondition>
+   <abstract>Sammy Kaye and his Orchestra perform I'll Be Walking With My Honey with vocalists Nancy Norman and Billy Williams; followed by a dub of Jack Guthrie's Capitol release 309 (side A), I'm Telling You.</abstract>
+   <subject>
+      <topic>Kaye, Sammy, 1910-1987</topic>
+   </subject>
+   <subject>
+      <topic> Norman, Nancy</topic>
+   </subject>
+   <subject>
+      <topic> Williams, Billy (Country singer)</topic>
+   </subject>
+   <subject>
+      <topic> Guthrie, Jack</topic>
+   </subject>
+   <subject>
+      <topic> Oklahomans (Musical group)</topic>
+   </subject>
+   <name>
+      <namePart>Nancy Norman</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart> Billy Williams</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart> Sammy Kaye</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart> Jack Guthrie</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart> Oklahomans</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
+   </name>
+   <recordInfo>
+      <recordContentSource>Country Music Hall of Fame</recordContentSource>
+   </recordInfo>
+   <location>
+      <url usage="primary" access="object in context">http://digi.countrymusichalloffame.org/cdm/ref/collection/musicaudio/id/2893</url>
+   </location>
+   <location>
+      <url usage="primary" access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/2893</url>
+   </location>
+   <identifier type="local">cmhf2893</identifier>
+   <physicalDescription>
+      <form>10 inch metal-based acetate disc</form>
+   </physicalDescription>
+   <physicalDescription>
+      <form>78 rpm</form>
+   </physicalDescription>
+</mods>
