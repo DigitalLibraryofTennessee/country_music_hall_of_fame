@@ -51,8 +51,10 @@
 <name><namePart>{{cells["Creator 7"].value}}</namePart><role><roleTerm>Creator</roleTerm></role></name>
 <originInfo><dateCreated encoding="edtf" keyDate="yes">{{cells["Date"].value}}</dateCreated></originInfo>
 <recordInfo><recordContentSource>Country Music Hall of Fame</recordContentSource></recordInfo>
-<location><url usage="primary" access="object in context">{{cells["CleanIdentifier2"].value}}</url></location>
-<location><url usage="primary" access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/{{cells["id"].value}}</url></location>
+<location>
+<url usage="primary" access="object in context">{{cells["CleanIdentifier2"].value}}</url>
+<url usage="primary" access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/{{cells["id"].value}}</url>
+</location>
 <identifier type="local">{{cells["id"].value}}</identifier>
 <physicalDescription><form>{{cells["RealFormat 1"].value}}</form></physicalDescription>
 <physicalDescription><form>{{cells["RealFormat 2"].value}}</form></physicalDescription>
