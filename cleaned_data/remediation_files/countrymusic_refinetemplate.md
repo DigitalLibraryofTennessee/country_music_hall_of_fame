@@ -50,7 +50,7 @@
 <name><namePart>{{cells["Creator 6"].value}}</namePart><role><roleTerm>Creator</roleTerm></role></name>
 <name><namePart>{{cells["Creator 7"].value}}</namePart><role><roleTerm>Creator</roleTerm></role></name>
 <originInfo><dateCreated encoding="edtf" keyDate="yes">{{cells["Date"].value}}</dateCreated></originInfo>
-<recordInfo><recordContentSource>Country Music Hall of Fame</recordContentSource></recordInfo>
+<recordInfo><recordContentSource>Country Music Hall of Fame and Museum</recordContentSource></recordInfo>
 <location>
 <url usage="primary" access="object in context">{{cells["CleanIdentifier2"].value}}</url>
 <url usage="primary" access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/{{cells["id"].value}}</url>
