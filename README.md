@@ -17,7 +17,7 @@ This document describes the country music hall of fame mapping from QDC to MODS.
         |-- split_collection.xsl
 |-- original_data
 	|-- countryqdc.xml
-|-- REAME.md
+|-- README.md
 ```
 
 ## Goals
@@ -34,8 +34,8 @@ For CMHF, only grab records that have one of these three exact matches in dc:for
 | -----| ------- | ------ | --- |
 | dc:identifier | /identifier | sourceResource.identifier | |
 | dc:title | /titleInfo/title | sourceResource.title | |
-| dc:accessRights | /accessCondition | sourceResource.rights | |
-| dc:rightsHolder | **NONE** | sourceResource.rightsHolder| Currently, we don't map this, although we could.|
+| dcterms:accessRights | /accessCondition | sourceResource.rights | |
+| dcterms:rightsHolder | **NONE** | sourceResource.rightsHolder| Currently, we don't map this, although we could.|
 | dc:format | /physicalDescription/form | sourceResource.format | |
 | dc:tableOfContents | **NONE** | **NONE** |  |
 | dc:description | /abstract | sourceResource.description | |
