@@ -53,7 +53,7 @@
 <recordInfo><recordContentSource>Country Music Hall of Fame and Museum</recordContentSource></recordInfo>
 <location>
 <url usage="primary" access="object in context">{{cells["CleanIdentifier2"].value}}</url>
-<url usage="primary" access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/{{cells["id"].value}}</url>
+<url access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/{{cells["id"].value}}</url>
 </location>
 <identifier type="local">{{cells["id"].value}}</identifier>
 <physicalDescription><form>{{cells["RealFormat 1"].value}}</form></physicalDescription>

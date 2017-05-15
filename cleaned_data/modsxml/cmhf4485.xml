@@ -29,7 +29,7 @@
    </recordInfo>
    <location>
       <url usage="primary" access="object in context">http://digi.countrymusichalloffame.org/cdm/ref/collection/musicaudio/id/4485</url>
-      <url usage="primary" access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/4485</url>
+      <url access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/4485</url>
    </location>
    <identifier type="local">cmhf4485</identifier>
    <physicalDescription>

@@ -26,7 +26,7 @@
    </recordInfo>
    <location>
       <url usage="primary" access="object in context">http://digi.countrymusichalloffame.org/cdm/ref/collection/musicaudio/id/3849</url>
-      <url usage="primary" access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/3849</url>
+      <url access="preview">http://digi.countrymusichalloffame.org/utils/getthumbnail/collection/musicaudio/id/3849</url>
    </location>
    <identifier type="local">cmhf3849</identifier>
    <physicalDescription>
